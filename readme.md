@@ -32,6 +32,6 @@
 <h2 style="color:#32CD32;">🖼️ Preview of the card - <em>Aperçu de la carte</em></h2>
 
 <img src="vcard/images/readme/desktop.png" alt="Texte alternatif" width="500"> <img src="vcard/images/readme/mobile1.png" alt="Texte alternatif" width="500">
-<img src="vcard/images/readme/mobile2" alt="Texte alternatif" width="500">
+<img src="vcard/images/readme/mobile2.png" alt="Texte alternatif" width="500">
 
 
