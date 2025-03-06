@@ -31,5 +31,5 @@
 
 <h2 style="color:#32CD32;">🖼️ Preview of the card - <em>Aperçu de la carte</em></h2>
 
-💳 <em><strong><span style="color:#8B0000;">![Desktop](vcard/images/readme/desktop.png)
-</span></strong></em>
+<img src="vcard/images/desktop.png" alt="Texte alternatif" width="300" height="200">
+
