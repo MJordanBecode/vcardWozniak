@@ -31,4 +31,5 @@
 
 <h2 style="color:#32CD32;">🖼️ Preview of the card - <em>Aperçu de la carte</em></h2>
 
-💳 <em><strong><span style="color:#8B0000;">[Ajoutez ici une capture d'écran ou un lien vers un visuel]</span></strong></em>
+💳 <em><strong><span style="color:#8B0000;">![Desktop]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/MJordanBecode/vcardWozniak/vcard/images/readme/desktop.png)
+</span></strong></em>
